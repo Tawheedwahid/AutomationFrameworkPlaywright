@@ -9,8 +9,8 @@
   },
   "invalidUsers": [
     {
-      "username": "wrongUsertest",
-      "password": "wrongPassw7ds",
+      "username": "wrongUsoyurtest",
+      "password": "wrongPasswords",
       "scenario": "invalid credentials"
     },
     {
