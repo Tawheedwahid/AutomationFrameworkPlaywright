@@ -5,7 +5,7 @@
   },
   "validUser": {
     "username": "testUser",
-    "password": "Password@1233"
+    "password": "Password@123"
   },
   "invalidUsers": [
     {
