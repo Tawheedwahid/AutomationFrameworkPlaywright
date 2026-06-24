@@ -8,6 +8,6 @@
     { "label": "Impressive", "radioId": "impressiveRadio", "expectedText": "Impressive" }
   ],
   "disabledOption": {
-    "label": "No", "radioId1": "noRadio"
+    "label": "No", "radioId": "noRadio"
   }
 }

@@ -5,12 +5,12 @@
   },
   "validUser": {
     "username": "testUser",
-    "password": "Password@1663"
+    "password": "Password@1423"
   },
   "invalidUsers": [
     {
       "username": "wrongUser",
-      "password": "wrongPassword",
+      "password": "wrongPasswords",
       "scenario": "invalid credentials"
     },
     {
