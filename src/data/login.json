@@ -4,12 +4,12 @@
     "author": "Tawheed Wani"
   },
   "validUser": {
-    "username": "testUser",
+    "username": "testUser123",
     "password": "Password@1423"
   },
   "invalidUsers": [
     {
-      "username": "wrongUser",
+      "username": "wrongUsertest",
       "password": "wrongPasswords",
       "scenario": "invalid credentials"
     },
