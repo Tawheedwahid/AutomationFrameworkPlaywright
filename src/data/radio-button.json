@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "description": "Test data for Radio Button page",
+    "author": "Tawheed Wani"
+  },
+  "options": [
+    { "label": "Yes", "radioId": "yesRadio", "expectedText": "Yes" },
+    { "label": "Impressive", "radioId": "impressiveRadio", "expectedText": "Impressive" }
+  ],
+  "disabledOption": {
+    "label": "No", "radioId": "noRadio"
+  }
+}

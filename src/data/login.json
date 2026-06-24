@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "description": "Test data for Login page",
+    "author": "Tawheed Wani"
+  },
+  "validUser": {
+    "username": "testUser",
+    "password": "Password@123"
+  },
+  "invalidUsers": [
+    {
+      "username": "wrongUser",
+      "password": "wrongPassword",
+      "scenario": "invalid credentials"
+    },
+    {
+      "username": "",
+      "password": "",
+      "scenario": "empty credentials"
+    }
+  ]
+}
